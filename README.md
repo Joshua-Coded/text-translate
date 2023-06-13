@@ -4,6 +4,10 @@ I wanted to build a text-speech full stack application with Python that would ta
 The motivation behind building this was from an article i came across on the internet.
 
 ---- to use the application
+
+
 --- clone the repo using "  git clone repo name "
+
 -- cd into the repo that was cloned
+
 -- run this command to open it on the web " open index.html"
